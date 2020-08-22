@@ -4,6 +4,8 @@ I am tal and I just like to code, yes, nothing more 😐
 
 You know, most of the time I write in Node and TypeScript, but I'll do some dart, python and c# too
 
+#### React is the best way to create front end apps, but vanillajs is ok too
+
 <!--
 **talopl/talopl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
